@@ -1,0 +1,100 @@
+
+.e-school{
+    width: 30%;
+    height: auto;
+    margin-left: 40px;
+}
+.menu{
+    margin-right: 40px;
+}
+.nav-item{
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 0 20px;
+}
+.fist-part img{
+    width: 100%;
+    height: auto;
+    padding: 40px;
+}
+
+.top-part{
+    padding: 60px;
+}
+.top-part h6{
+    color: red;
+}
+
+.top-part p{
+
+}
+
+
+.head-part{
+    color: black;
+}
+.tech-info{
+    background-color: #F8FFFB;
+   text-align: center;
+   border-radius: 10px;
+   
+
+}
+.active, .tech-info:hover {
+    background-color: white;
+    box-shadow: 10px 10px 20px gray;
+  }
+
+
+.tech-info img{
+    width: 30%;
+    margin-bottom: 10px;
+}
+.medel-shedow{ box-shadow: 10px 10px 10px gray;} 
+.medel-part h1{
+    text-align: center;
+    margin: 40px 0;
+}
+
+.testimonial h1{
+    text-align: center;
+    margin-top: 50px;
+}
+.testimonial-all{
+    padding: 20px;
+    margin: 40px 0;
+
+}
+
+.testimonial-all img{ 
+    width: 40%; 
+    margin-left: 150px;  
+}
+.end-part{
+    padding: 20px;
+    margin-bottom: 30px;
+}
+.end-part p{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.card-footer{
+    padding: 0 10px;
+    border: none;
+    background-color: #FFFFFF;
+    margin: 2px;
+}
+.text-coler{
+    color: white;
+    
+}
+.text-coler h4{
+    margin-left: 35px;
+    
+}
+
+.orderlist{
+    list-style: none;
+}
